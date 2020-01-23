@@ -1,0 +1,4 @@
+[submodule "antoniocanovas/addons-ic"]
+	path = antoniocanovas/addons-ic
+	url = git@github.com:antoniocanovas/addons-ic.git
+	branch = 12.0
